@@ -1,0 +1,7 @@
+{
+  "name": "Academic Affairs Management Platform - มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย",
+  "description": "ระบบบริหารจัดการกองวิชาการ มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย (MCU Academic Affairs Management Platform)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
